@@ -1,6 +1,4 @@
-let image = document.getElementById("image");
-
-fetch("http://jsonip.com/")
+fetch("https://jsonip.com/")
     .then((response) => {
         return response.json()
     })
