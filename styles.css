@@ -1,7 +1,10 @@
+@import url("https://cdn.jsdelivr.net/npm/@xz/fonts@1/serve/ibm-plex-mono.min.css");
+
 html, body, .content {
     background-color: black;
     color: white;
     height: 100%;
+    font-family: 'IBM Plex Mono', sans-serif;
 }
 
 body {
