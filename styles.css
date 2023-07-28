@@ -1,0 +1,19 @@
+html, body, .content {
+    background-color: black;
+    color: white;
+    height: 100%;
+}
+
+body {
+    overflow-y: hidden;
+}
+
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    text-align: center;
+}
