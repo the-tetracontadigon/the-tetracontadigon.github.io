@@ -17,3 +17,7 @@ body {
 .container {
     text-align: center;
 }
+
+#image {
+    max-height: 20rem;
+}
