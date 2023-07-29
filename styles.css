@@ -21,6 +21,7 @@ body {
     text-align: center;
 }
 
+#image2,
 #image {
-    max-height: 20rem;
+    max-height: 30rem;
 }
